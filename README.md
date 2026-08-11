@@ -1,6 +1,6 @@
 # 🌌 極光の幻想鄉
 
-專為 Java 與 Bedrock（基岩版）玩家打造的無縫跨平台 Minecraft 生存伺服器，專注於穩定、低延遲與豐富的內容玩法。
+Java 與 Bedrock（基岩版）玩家打造的無縫跨平台 Minecraft 生存伺服器，專注於穩定、低延遲與豐富的內容玩法。
 
 ## 🔗 連線資訊
 * **Java 版 IP**：`play.yucl.qzz.io`
