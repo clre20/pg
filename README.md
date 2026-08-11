@@ -18,6 +18,8 @@
 * **全服釣魚大賽**：定期觸發釣魚賽事，解鎖豐富圖鑑獲取高額經濟獎勵。
 * **便捷生存輔助**：提供安全的個人領地保護、高效一鍵連鎖挖掘、皮膚還原與隨地坐下/躺下等動作交互系統。
 
+---
+
 # 🌌 Aurora Fantasy (極光の幻想鄉)
 
 A seamless, cross-platform Minecraft survival server designed for both Java and Bedrock Edition players, focusing on stability, low latency, and rich gameplay features.
